@@ -1,5 +1,5 @@
 # Flipkart-Review-Sentiment-Analysis
-This project takes a product name as input and creates a review scraper from scratch, stores the scrapped data in MySQL database and then deploy it in a cloud environment.
+This project takes a product name as input and creates a review scraper from scratch, stores the scrapped data in MySQL database and also gives the polarity of the review.Then deploy it in a cloud environment.
 
 Work Flow:
   1.	Take the input (E.g. mobile name) entered in the website. 
